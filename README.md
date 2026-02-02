@@ -8,7 +8,7 @@ int: Storing whole numbers.
 
 float: Handling decimal values.
 
-char[]: Storing strings as character arrays.
+char[]: Storing strings as character arrays [] for size/length.
 
 cout: Standard output stream for displaying data.
 
