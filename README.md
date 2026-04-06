@@ -4,6 +4,7 @@ A simple C++ demonstration program that initializes different data types—inclu
 📝 Description
 
 
+
 This project serves as a "Hello World" style introduction to C++ variables. It showcases:
 
 int: Storing whole numbers.
