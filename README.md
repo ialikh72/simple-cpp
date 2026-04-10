@@ -1,5 +1,6 @@
 
 
+
 Basic C++ Data Types & Output
 A simple C++ demonstration program that initializes different data types—including integers, floats, and character arrays—and displays their values to the console.
 
